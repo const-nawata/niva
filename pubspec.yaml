@@ -13,7 +13,7 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.5
 #  faker: ^2.1.0
-  flutter_launcher_icons: ^0.11.0
+  flutter_launcher_icons: ^0.13.0
 #  flutter_secure_storage: ^7.0.1
 #  intl: ^0.18.0
 #  path_provider: ^2.0.12
